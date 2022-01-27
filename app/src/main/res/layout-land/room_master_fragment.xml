@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_5sdp"
+        android:backgroundTint="@color/purple_500"
+        app:cardElevation="@dimen/_8sdp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".9"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/room_code"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_8ssp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/name"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_8ssp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".9"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/floor_code"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_8ssp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".9"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/room_type"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_8ssp" />
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.3"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/bed_type_code"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_8ssp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/count"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_8ssp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".6"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/status"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_8ssp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".8"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/from_date"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_8ssp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".6"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/to_date"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_8ssp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".6"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/option"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_8ssp" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

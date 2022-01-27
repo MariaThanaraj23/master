@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">HatSunTraining</string>
+    <string name="to_date">To Date</string>
+    <string name="option">Option</string>
+    <string name="from_date">From Date</string>
+    <string name="status">Status</string>
+    <string name="training_center_code">Training Center code</string>
+    <string name="name">Name</string>
+    <string name="building_code">Building Code</string>
+    <string name="floor_code">Floor Code</string>
+    <string name="bed_type">Bed Type</string>
+    <string name="count">Count</string>
+    <string name="pickup_point">Pickup point</string>
+    <string name="drop_point">Drop point</string>
+    <string name="km">KM</string>
+    <string name="trip_code">Trip Code</string>
+    <string name="bed_type_information">Bed Type Information</string>
+    <string name="save_changes">Save changes</string>
+    <string name="bed_information">Bed Information</string>
+    <string name="bed_type_code">Bed Type Code</string>
+    <string name="capacity">Capacity</string>
+    <string name="floor_information">Floor Information</string>
+    <string name="pickup_and_drop_information">Pickup and Drop information</string>
+    <string name="kilometers">kilometers</string>
+    <string name="room_code">Room Code</string>
+    <string name="room_type">Room Type</string>
+    <string name="reimb_code">Reimb code</string>
+    <string name="type">type</string>
+    <string name="from_location">From location</string>
+    <string name="uom">UOM</string>
+    <string name="price">Price</string>
+    <string name="to_location">To location</string>
+    <string name="valid_from">Valid from</string>
+    <string name="valid_to">Valid to</string>
+    <string name="pending_request">Pending Request</string>
+</resources>

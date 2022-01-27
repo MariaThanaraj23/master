@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "1056319477580",
+    "project_id": "deliveryboymobile",
+    "storage_bucket": "deliveryboymobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056319477580:android:2378ed36b541a5476c61e9",
+        "android_client_info": {
+          "package_name": "com.clsslabs.hapfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056319477580-qm12ngem9das1l5ublgkhfia9553mebo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clsslabs.hapfeed",
+            "certificate_hash": "4e3df505a2e705cbcf857c5fc613d67122d927ba"
+          }
+        },
+        {
+          "client_id": "1056319477580-kp3mp5s8nip9a00e5iut6e6jsah7onc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1xeuEoV7nn1-1bnfUHaGoEcelBYPQkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056319477580-kp3mp5s8nip9a00e5iut6e6jsah7onc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056319477580:android:0144e25fc356445a6c61e9",
+        "android_client_info": {
+          "package_name": "com.clsslabs.hatsuntraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056319477580-u9dtdspo1ilo8a3ghrqe90qv1mmt3hgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clsslabs.hatsuntraining",
+            "certificate_hash": "4e3df505a2e705cbcf857c5fc613d67122d927ba"
+          }
+        },
+        {
+          "client_id": "1056319477580-kp3mp5s8nip9a00e5iut6e6jsah7onc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1xeuEoV7nn1-1bnfUHaGoEcelBYPQkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056319477580-kp3mp5s8nip9a00e5iut6e6jsah7onc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056319477580:android:862e56281991f8006c61e9",
+        "android_client_info": {
+          "package_name": "com.clsslabs.orderdeliveryboykotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056319477580-kp3mp5s8nip9a00e5iut6e6jsah7onc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1xeuEoV7nn1-1bnfUHaGoEcelBYPQkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056319477580-kp3mp5s8nip9a00e5iut6e6jsah7onc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
